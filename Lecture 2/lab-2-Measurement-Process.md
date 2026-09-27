@@ -1,5 +1,7 @@
 # Завдання 1: Python Challenge — Паспорт експерименту
 
+[Запис лекційного заняття](https://udhtu-ukr-education.zoom.us/rec/share/RpMq_3YFE_4dwa4iEYDql-Qc7RMsHeGEZyJ4NIOAZCCqHX1mpVelQ7wjQTHLYfZE.fI_m8hxd-7dPeu12) / Пароль: fu?734DE
+
 ## Специфікація
 * **Вхідні дані:** Словник налаштувань (`dict`)
 * **Вихідні дані:** Кортеж `(ready: bool, reasons: list[str])`
