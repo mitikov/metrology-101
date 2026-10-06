@@ -1,3 +1,7 @@
+# Запис лекції
+
+[Частина 1](https://udhtu-ukr-education.zoom.us/rec/share/bHEH-Mt5_kGREHS0yDiDuujDDbwfWBfR2EEliicJOFFbcRo2UUH36lci_sbs_FRh.hznVC90FYW8jGXpt) Password: 2PEK&*7g
+
 # Питання з лекції
 
 1. Чим відрізняються похибка окремого результату, межа похибки та стандартне відхилення? Поясніть на прикладі ваг або термометра.
