@@ -1,5 +1,7 @@
 # Лекція №11. Електрохімічні та оптичні методи аналізу складу
 
+[Запис (частина друга)](https://udhtu-ukr-education.zoom.us/rec/share/_05wDEPzmi5vJsBSB9IrxBiTs4AhorQbKnimiEasUB42nia1b4RElwSwNGnYWIDb.Uq7nACaSPy1q0BxS?from=hub)  Password: `CNV3kC?k`
+
 15 запитань для самостійного проходження теми. Починаємо з кишенькового TDS-метра, а завершуємо вибором приладу для невідомої проби.
 
 ## Провідність: що можна дізнатися про воду
